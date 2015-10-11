@@ -1,0 +1,10 @@
+{
+  "name": "CartmenElectronics",
+  "version": "0.1.0",
+  "title": "Cartmen's Electronics Overhaul",
+  "author": "Cartmen180",
+  "contact": "cartmen180@gmail.com",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=5971",
+  "description": "Changes the recipes for circuits. Also adds different tiers to produce circuits.",
+  "dependencies": ["base >= 0.12.0"]
+}
